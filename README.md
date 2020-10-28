@@ -7,10 +7,10 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Licenses](#licenses)
-- [Badges](#badges)
 - [Contributors](#contributors)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Screenshots](#Screenshots)
 
 ## Description:
 This is a command-line application that will allow for a quick and easy generation of a project README using the user’s input. It is done using Inquirer package.
@@ -26,5 +26,6 @@ Made pretty with the help of Levi
 No tests required
 ## Questions:
 Please see my GitHub account: klsybthrst
-Or email me directly: kelsey.bathursy@gmail.com
+Or email me directly: kelsey.bathurst@gmail.com
+## Screenshots:
   
