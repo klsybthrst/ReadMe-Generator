@@ -30,4 +30,5 @@ Or email me directly: kelsey.bathurst@gmail.com
 ## Screenshots:
 ![Screen Shot 2020-10-27 at 10 02 08 PM](https://user-images.githubusercontent.com/70531552/97381721-10c34a00-18a0-11eb-9e79-405f8ef2dfc2.png)
 ![Screen Shot 2020-10-27 at 10 04 35 PM](https://user-images.githubusercontent.com/70531552/97381881-67c91f00-18a0-11eb-8e9c-0ee70ed509b9.png)
+![Screen Shot 2020-10-27 at 10 06 23 PM](https://user-images.githubusercontent.com/70531552/97381979-a959ca00-18a0-11eb-9c5a-2307d86b21e9.png)
   
