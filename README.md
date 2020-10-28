@@ -25,7 +25,7 @@ Made pretty with the help of Levi
 ## Tests:
 No tests required
 ## Questions:
-Please see my GitHub account: klsybthrst
+Please see my GitHub account: https://github.com/klsybthrst
 Or email me directly: kelsey.bathurst@gmail.com
 ## Screenshots:
 ![Screen Shot 2020-10-27 at 10 02 08 PM](https://user-images.githubusercontent.com/70531552/97381721-10c34a00-18a0-11eb-9e79-405f8ef2dfc2.png)
